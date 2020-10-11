@@ -1,0 +1,3 @@
+- understanding the algorithm was not hard, but coding it required alot of planning.
+- could probably use a hash table to store the proposed list, would be easier to replace and find the pair. 
+- I have a feeling that I did not write it in the most optimal way, feels like the run time is going to be higher than optimalO(n^2)
